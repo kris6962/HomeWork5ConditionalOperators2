@@ -43,7 +43,7 @@ public class Main {
 
         //task4
         System.out.println("Task 4");
-        int deliveryDistance = 173;
+        int deliveryDistance = 73;
         int days;
         if (deliveryDistance <= 20) {
             days = 1;
